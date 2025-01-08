@@ -14,6 +14,12 @@ I am an efficient Google BigQuery explorer dedicated to optimizing costs and per
 
 ## Release note
 
+### 1.3.5
+
+- add 3 GCP regions (africa-south1, europe-west10, northamerica-south1)
+- monthly report available for the last 6 months
+- add calendar month to filters in all analysis
+
 ### 1.3.1
 
 - Improve Savings Analysis
